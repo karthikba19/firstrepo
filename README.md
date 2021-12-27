@@ -1,2 +1,3 @@
 # firstrepo
-this is the 1st repo
+this is the first repo
+this repo is to learn devops
